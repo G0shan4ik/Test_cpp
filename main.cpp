@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
 
-void print_num(short num){
-    cout << num << endl;
+void print_num(short number){
+    cout << "Goodbay world - " << number << endl;
 }
 
 int main() {
