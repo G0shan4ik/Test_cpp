@@ -7,5 +7,7 @@ void print_num(short num){
 
 int main() {
     cout << "Goodbay world" << endl;
+
+    print_num(12);
     return 0;
 }
